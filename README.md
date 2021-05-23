@@ -34,6 +34,6 @@ $ npm run server
 # Run Tests
 $ npm test
 
-Depois de digitar npm test aguarde um instante e pressione "a" para rodar todos os testes.
+After typing npm test, wait a moment and press "a" to run all tests.
 
 ```
