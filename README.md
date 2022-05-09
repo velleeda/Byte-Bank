@@ -1,12 +1,12 @@
 # Byte Bank
 
-Projeto criado em um dos cursos de React da Alura para aprender sobre automatização de testes em aplicações front-end. <br />
+Project created in one of Alura's React courses to learn about test automation in front-end applications. <br />
 
-Nele aprendi: <br />
+In it I learned: <br />
 
-- Como garantir a funcionalidade da aplicação através de testes automatizados;
-- Como fazer testes descritivos e consistentes;
-- O que precisa ser testado e o que não precisa.
+- How to guarantee the functionality of the application through automated tests;
+- How to make descriptive and consistent tests;
+- What needs to be tested and what doesn't.
 
 # Overview
 
@@ -21,7 +21,9 @@ $ git clone https://github.com/velleeda/Byte-Bank
 
 # Go to the directory
 $ cd Byte Bank
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
@@ -33,7 +35,6 @@ $ npm run server
 
 # Run Tests
 $ npm test
+```
 
 After typing npm test, wait a moment and press "a" to run all tests.
-
-```
